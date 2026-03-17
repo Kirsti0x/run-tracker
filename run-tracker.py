@@ -25,3 +25,5 @@ average_pace = total_time / total_miles
 
 print(f"Total time logged: {total_time} minutes")
 print(f"Average pace: {average_pace:.2f} minutes per mile")
+
+print("Feature branch update")
