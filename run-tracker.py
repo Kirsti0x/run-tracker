@@ -17,3 +17,5 @@ for run in runs:
     total_miles += run["distance"]
 
 print(f"Total miles logged: {total_miles}")
+
+print("Feature branch update")
