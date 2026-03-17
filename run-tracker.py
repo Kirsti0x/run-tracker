@@ -21,6 +21,9 @@ for run in runs:
 
 print(f"Total miles logged: {total_miles}")
 
+print("Feature branch update")
+
+print("Pull request change")
 average_pace = total_time / total_miles
 
 print(f"Total time logged: {total_time} minutes")
