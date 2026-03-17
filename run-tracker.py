@@ -19,3 +19,5 @@ for run in runs:
 print(f"Total miles logged: {total_miles}")
 
 print("Feature branch update")
+
+print("Pull request change")
